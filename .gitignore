@@ -1,9 +1,6 @@
-# Ignore everything in this repo
 /*
 
-# But keep the .gitignore file itself
 !.gitignore
-
-# Keep the public folder and everything inside it
-!/public/
-!/public/**
+!/pages/
+!/pages/Public/
+!/pages/Public/**
