@@ -1,6 +1,13 @@
+course:: Grammar in Context I
+type:: Assignment
+status:: Ready
+edited:: 2025-11-28
+
+-
 - [Using GenAI to Code Qualitative Data](https://odysee.com/@benjaminstewart:d/GenAI-demo-analysis_10042025:0)
 - iframe width="560" height="315"
   src="https://odysee.com/$/embed/GenAI-demo-analysis_10042025"
   allowfullscreen></iframe>
 - https://odysee.com/@benjaminstewart:d/GenAI-demo-analysis_10042025:0
+-
 -
