@@ -1,0 +1,4 @@
+---
+Parent tag:
+  - "[[Instruction type]]"
+---

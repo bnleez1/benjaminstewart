@@ -27,9 +27,8 @@ tags:
 > 4. GV) Present simple & continuous using personal adjectives
 ---
 ## Learning outcomes (Jobs & Careers)
-
 - 1st and 2nd conditional - See [[Understanding Conditionals in English- A Comprehensive Guide]].
-- # 🗂️ Monday
+# 🗂️ Monday
 - What makes a great teacher?
 - Speaking tasks related to jobs and careers
 - Teams
@@ -48,6 +47,7 @@ tags:
     The teams was generated with the app Game Teams Generator. Download the app at:  
     Android: https://play.google.com/store/apps/details?id=com.wgpapps.footballteamsgenerator  
     iOS: https://apps.apple.com/us/app/games-teams-generator/id1553648547
+    
 - Story
     
     By the time the sun will have set on the final day of Carnival, the streets of Rio de Janeiro will have been transformed into a vibrant tapestry of color, music, and dance. This annual festival, known for its grand parades and samba performances, has always been a spectacle to behold. Every year, millions of people from around the world come to Rio to experience the Carnival. The city becomes a hub of excitement and energy, with everyone eager to join in the festivities.
@@ -84,10 +84,10 @@ tags:
     
     The Carnival in Rio de Janeiro is a timeless celebration, a festival that brings people together and fills the city with joy and excitement. It is a time when the streets come alive with color and music, and the spirit of celebration is contagious. The Carnival is a reminder of the power of community and the joy of celebration, a testament to the enduring spirit of the people of Rio de Janeiro. And as the final float passes by and the last note of samba fades into the night, the spirit of the Carnival lives on, a beacon of joy and celebration that will continue to shine for years to come.
     
-  ![[image-1731340990752.jpg3629838070290751924.jpg]]
-- # 🗂️ Wednesday
+![[image-1731340990752.jpg3629838070290751924.jpg]]
+# 🗂️ Wednesday
 - November 12, 2024 - TOEFL application (Wendy)
-- # 🗂️ Friday
+# 🗂️ Friday
 - For those who participated in the Halloween event, your grade has been posted to the Video final project in Teams. If I missed anyone, let me know.
 - Complete [[../../../../../70 Notes/CAE I Week 14 Mini Task]].
 - Today’s objective is to set up and complete a resume in Notion of someone we know and write a paragraph about the person’s professional and educational experience, including the four conditionals? Share the URL to your Notion page as an attachment to the mini task for Week 14.
